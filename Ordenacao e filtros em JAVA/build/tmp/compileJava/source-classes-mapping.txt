@@ -1,0 +1,10 @@
+one/innovation/digital/Ordenacao.java
+ one.innovation.digital.Ordenacao
+one/innovation/digital/filaBanco.java
+ one.innovation.digital.filaBanco
+one/innovation/digital/Uniformes.java
+ one.innovation.digital.Uniformes
+one/innovation/digital/ListasdeCompra.java
+ one.innovation.digital.ListasdeCompra
+one/innovation/digital/GincanaAcampamento.java
+ one.innovation.digital.GincanaAcampamento
